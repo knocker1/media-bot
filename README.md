@@ -3,4 +3,4 @@ downloads anymedia
 
 
 
-> Deploy to heroku [**clickme**](https://heroku.com/deploy?template=https://github.com/knocker1/Mediabot)
+> Deploy to heroku [**clickme**](https://heroku.com/deploy?template=https://github.com/knocker1/media-bot)
